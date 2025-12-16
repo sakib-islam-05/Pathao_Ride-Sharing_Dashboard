@@ -1,0 +1,55 @@
+vehicle_id,driver_id,vehicle_type,brand_model,plate_number,color,regdate,status
+1,1,Bike,Honda,BD-11-4419,Grey,15-02-23,Active
+2,2,Car Lite,Honda,BD-56-7814,Blue,09-10-16,Active
+3,3,Bike,Honda,BD-48-2276,Black,24-02-17,Active
+4,4,Bike,Toyota,BD-34-4164,Silver,21-10-19,Active
+5,5,Car Lite,Suzuki,BD-81-7802,Grey,19-11-17,Active
+6,6,Bike,Toyota,BD-99-7997,White,18-03-18,Active
+7,7,Bike,Yamaha,BD-94-3591,Silver,11-06-23,Active
+8,8,Bike,Yamaha,BD-57-7755,Grey,11-12-22,Active
+9,9,Bike,Suzuki,BD-79-4504,Red,15-06-20,Active
+10,10,Bike,Toyota,BD-10-1567,Blue,05-09-16,Active
+11,11,Car Plus,Yamaha,BD-10-5920,Black,01-06-19,Active
+12,12,Bike,Yamaha,BD-80-9376,Silver,02-02-18,Active
+13,13,Bike,TVS,BD-27-5341,Blue,09-04-19,Active
+14,14,Car Lite,Honda,BD-83-7550,Silver,03-12-19,Active
+15,15,Bike,Toyota,BD-32-8999,Grey,21-10-17,Active
+16,16,Bike,Suzuki,BD-58-2285,White,27-06-21,Active
+17,17,Bike,Honda,BD-39-1187,Grey,10-01-22,Active
+18,18,Bike,Yamaha,BD-79-3450,Blue,02-03-19,Active
+19,19,Bike,Toyota,BD-67-9269,White,10-07-19,Active
+20,20,Bike,TVS,BD-26-6507,White,24-10-23,Active
+21,21,Bike,Toyota,BD-43-2393,Red,05-12-22,Active
+22,22,Bike,Toyota,BD-81-4245,Red,19-11-22,Active
+23,23,Bike,Suzuki,BD-77-5034,Black,25-05-17,Active
+24,24,Bike,Suzuki,BD-21-2843,Grey,12-07-22,Active
+25,25,Bike,Yamaha,BD-54-1396,Blue,20-06-18,Active
+26,26,Car Lite,Toyota,BD-89-3389,Red,07-04-16,Active
+27,27,Bike,TVS,BD-20-2841,Grey,20-04-16,Active
+28,28,Car Lite,Yamaha,BD-11-6624,Grey,15-05-17,Active
+29,29,Bike,Yamaha,BD-36-9814,Black,17-09-19,Active
+30,30,Bike,Suzuki,BD-71-3315,Grey,19-07-16,Active
+31,31,Car Lite,Suzuki,BD-15-5185,Black,07-05-16,Active
+32,32,Bike,Suzuki,BD-44-1869,Red,13-02-16,Active
+33,33,Bike,Yamaha,BD-23-1312,Blue,13-04-22,Active
+34,34,Bike,Honda,BD-50-8940,Silver,07-03-17,Active
+35,35,Bike,Toyota,BD-81-1352,White,10-09-19,Active
+36,36,Bike,Toyota,BD-30-1301,Blue,21-06-21,Active
+37,37,Bike,Suzuki,BD-45-2015,Grey,27-07-20,Active
+38,38,Car Plus,Suzuki,BD-45-4695,Black,22-07-21,Active
+39,39,Bike,Toyota,BD-76-4726,Red,05-10-19,Active
+40,40,Bike,Yamaha,BD-87-6395,Red,21-04-18,Active
+41,41,Bike,Suzuki,BD-97-4314,Black,23-12-20,Active
+42,42,Car Lite,TVS,BD-65-3378,Grey,03-06-18,Active
+43,43,Bike,Honda,BD-33-6203,Black,14-06-16,Active
+44,44,Car Plus,Yamaha,BD-66-5485,Black,05-02-19,Active
+45,45,Bike,Suzuki,BD-88-5372,Silver,08-10-19,Active
+46,46,Bike,Honda,BD-55-2302,Grey,17-03-23,Active
+47,47,Car Lite,Toyota,BD-93-7126,Black,16-08-22,Active
+48,48,Bike,TVS,BD-38-1528,Red,14-05-16,Active
+49,49,Bike,TVS,BD-36-2083,Black,16-10-23,Active
+50,50,Bike,Toyota,BD-41-8005,Red,24-10-16,Active
+51,51,Car Lite,Yamaha,BD-60-9784,Silver,04-09-16,Active
+52,52,Bike,Honda,BD-41-9498,Silver,02-12-22,Active
+53,53,Bike,Suzuki,BD-90-1807,Black,13-08-20,Active
+54,54,Car Lite,Yamaha,BD-69-3727,Red,02-10-20,Active
